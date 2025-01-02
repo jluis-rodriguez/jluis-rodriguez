@@ -1,4 +1,4 @@
-## Hi there 👋
+### Nota biográfica 👋
 
 <!--
 **jluis-rodriguez/jluis-rodriguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Profesionalmente empezó su carrera en el proyecto de catalogación de manuscritos de la Universidad de Salamanca, y continuó con un proyecto semejante en la colección de la Real Biblioteca. Ambos trabajos han permitido la adquisición de competencias en paleografía y codicología. Previamente, como estudiante  en la Universidad de Lovaina (1992), se inició en la lingüística de corpus en el Departamento de Románicas y publicó como resultado de esa estancia un trabajo sobre el funcionamiento de los demostrativos en un corpus medieval, lo que le ha supuesto un contacto temprano con las Humanidades Digitales. Es autor de varios artículos de erudición sobre historia moderna, historia literaria, historia de la lengua gallega, historia del libro y humanidades digitales en revistas especializadas. Ha sido mentor de los proyectos Erasmus y Leonardo da Vinci para estudiantes de ingeniería de la Hogeschool West-Vlaanderen desarrollados en la Real Biblioteca, y participó como investigador en varios proyectos de la DGYCIT en el campo de humanidades. Es administrador de bases de datos en el proyecto MANES (UNED).
+En cuanto a sus actuales líneas de investigación, trabaja en criptografía clásica (Correspondencia cifrada del conde de Gondomar) utilizando las tecnologías del Text Mining y otras aplicaciones informáticas en el entorno R; participa en el desarrollo y aplicación de ontologías en los dominios de la poesía y la transmisión manuscrita, en la Real Biblioteca y el proyecto europeo POSTDATA, y trabaja en el desarrollo de Mirador Project y en su aplicación a Reales Bibliotecas Digitales; es responsable del proyecto en marcha Reales Bibliotecas Digitales, que tiene como objetivo poner en línea las colecciones bibliográficas de la Real Biblioteca del Palacio Real y la Real Biblioteca de El Escorial.
